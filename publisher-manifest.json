@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e9ed527365f370659b654d3c",
+  "owner": "jichangdaquan999",
+  "repo": "page-197c8eb72592bfe97373bd61",
+  "title": "熊猫云(bobcloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "197c8eb72592bfe97373bd61",
+      "a": "熊猫云(bobcloud)",
+      "b": "",
+      "entity": "熊猫云(bobcloud)",
+      "brand": "熊猫云(bobcloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "148457adcbf1b52cb552bc86384b9f0e34a5f1f2ec37297dc0f81d76a3761853",
+      "content": {
+        "keyword1": "熊猫云(bobcloud)",
+        "keyword2": "",
+        "primary_entity": "熊猫云(bobcloud)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "熊猫云(bobcloud)提供高速稳定的机场订阅与VPN网络加速服务，支持多端客户端下载、流媒体解锁与游戏专线，欢迎访问官网了解套餐与使用说明。",
+          "AI_DESCRIPTION": "熊猫云(bobcloud)提供高速稳定的机场订阅与VPN网络加速服务，支持多端客户端下载、流媒体解锁与游戏专线，欢迎访问官网了解套餐与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{overflow-x:hidden}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e6f2f5;font-size:16px;line-height:1.75}a{color:#2ee6d6;text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#0b1c2e;border-bottom:1px solid #16324a;padding:14px 0}.brand{font-size:1.15rem;font-weight:700;color:#2ee6d6}nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:8px}nav a{font-size:.92rem;color:#c5e4ea}h1{font-size:1.65rem;line-height:1.35;color:#fff;margin:0 0 12px}h2{font-size:1.35rem;color:#7ef0e6;margin:0 0 14px;padding-bottom:6px;border-bottom:1px solid #1a3a52}h3{font-size:1.08rem;color:#d4f7f4;margin:12px 0 8px}p,li{color:#d0e4ea}section{padding:28px 0}.hero{padding:36px 0 20px}.lead{font-size:1.02rem;color:#b8d4dc;max-width:42em}.stagger{display:flex;flex-direction:column;gap:16px}.panel{background:#102536;border:1px solid #1e4158;border-radius:10px;padding:18px}.plans{display:flex;flex-direction:column;gap:14px}.plan{background:#102536;border:1px solid #1e4158;border-radius:10px;padding:18px}.plan.featured{border-color:#2ee6d6;box-shadow:0 0 0 1px #2ee6d6}.price{font-size:1.4rem;color:#2ee6d6;font-weight:700}.annual{font-size:.9rem;color:#9ccad3}.plan ul,.scenes-list,.guide ol{margin:10px 0 0 18px}.clients-grid{display:flex;flex-direction:column;gap:10px}.client{background:#102536;padding:12px 14px;border-left:3px solid #2ee6d6}details{background:#102536;border:1px solid #1e4158;border-radius:8px;padding:10px 14px;margin-bottom:10px}summary{font-weight:600;color:#7ef0e6}details p{margin:8px 0 4px;color:#cfe3e8}footer{background:#061018;border-top:1px solid #16324a;padding:28px 0;font-size:.92rem;color:#8aaab4}.footer-block{margin-bottom:16px}.footer-block h3{color:#7ef0e6;font-size:1rem}.links{display:flex;flex-wrap:wrap;gap:8px 14px}@media(min-width:720px){h1{font-size:2.05rem}.stagger{flex-direction:row;align-items:stretch}.stagger.reverse{flex-direction:row-reverse}.stagger>*{flex:1}.plans{flex-direction:row;align-items:stretch}.plan{flex:1}.clients-grid{flex-direction:row;flex-wrap:wrap}.client{flex:1 1 240px}}</style><header><div class=\"wrap\"><div class=\"brand\">熊猫云(bobcloud)</div><nav><a href=\"#about\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><section class=\"hero\" id=\"home\"><div class=\"wrap\"><h1>熊猫云(bobcloud) 官方网站：VPN梯子网络加速与机场订阅客户端下载</h1><p class=\"lead\">熊猫云(bobcloud)面向需要稳定跨境连接的用户，提供可订阅的机场节点、多协议加速与清晰的客户端接入方式。本页介绍套餐权益、适用场景、配置步骤以及各平台客户端选择，便于在官网完成订阅说明查阅与下载指引对照。</p></div></section><section id=\"about\"><div class=\"wrap\"><h2>品牌简介</h2><div class=\"stagger\"><div class=\"panel\"><h3>服务定位</h3><p>熊猫云(bobcloud)是以机场订阅为核心的网络加速品牌，结合常见 VPN 协议与规则分流，覆盖日常浏览、流媒体与游戏加速。我们公示流量、同时在线设备与线路类型，方便按需选择基础版、旗舰版或团队版，而不是绑定单一封闭应用。</p></div><div class=\"panel\"><h3>官网获取与使用边界</h3><p>请通过熊猫云(bobcloud)官方网站核对套餐与客户端说明。订阅后复制专属订阅链接，再导入自选客户端即可。本站强调多端兼容：Clash、Shadowrocket、sing-box、v2rayN 等均可使用，配置方法见后文操作说明与客户端专区。</p></div></div></div></section><section id=\"plans\"><div class=\"wrap\"><h2>机场订阅套餐</h2><p>价格与权益以本页公示为准，年付可降低每月成本。旗舰版适合多数个人用户，团队版面向多设备与定制路由。以下为当前可对照的三档方案。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版（重点推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"stagger reverse\"><div class=\"panel\"><h3>工作与学习</h3><p>远程会议、云文档、代码仓库与学术资源访问时，可选用丢包更低的线路。规则分流可让国内站点直连、海外资源走加速节点，减少整网代理带来的额外延迟。</p></div><div class=\"panel\"><h3>娱乐与跨境业务</h3><p>旗舰版突出原生流媒体解锁与 IPLC 游戏优化，适合观影、直播与对延迟敏感的对战。跨境店铺运营、社媒多开与协作则更适合团队版的高带宽与 20 台设备配额。</p></div></div><p>常见用法还包括：海外协作办公、开源镜像与文献检索、国际流媒体点播、主机与手游加速、独立站投放与客服多开。请按合规要求使用网络服务。</p></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><ol class=\"guide\"><li>对照流量与设备数量选择基础版、旗舰版或团队版；若长期使用，年付单价更低。</li><li>完成订阅后在用户侧复制专属订阅链接，请勿公开传播，以免流量被盗用。</li><li>打开 <a href=\"#clients\">客户端选择与官方下载指引</a>，按系统安装对应工具。</li><li>在客户端的订阅或 Profiles 中粘贴链接并更新节点，按延迟、地区或专线类型连接。</li><li>如需分流，启用规则模式：国内直连、指定域名或应用走代理，会议与游戏可固定低延迟节点。</li></ol><p>多数设备首次导入只需数分钟。若更新后列表为空，请检查链接是否完整、客户端是否支持该订阅格式，再通过工单反馈。</p></div></section><section id=\"clients\"><div class=\"wrap\"><h2>客户端选择与官方下载指引</h2><p>熊猫云(bobcloud)不强制安装品牌专属 App。请按操作系统选择成熟客户端，从该软件自己的官方或开源渠道安装，再导入机场订阅。本专区说明配置路径，便于对照下载与使用，而不是捆绑安装包。</p><div class=\"clients-grid\"><div class=\"client\"><h3>Windows</h3><p>常用 Clash Verge、v2rayN 或 sing-box 图形界面。导入订阅后开启系统代理或 TUN，即可覆盖浏览器与多数桌面程序。</p></div><div class=\"client\"><h3>macOS</h3><p>可选用 ClashX Meta、Surge 或 Stash。桌面端便于切换规则、查看延迟，并与旗舰版 IPLC 节点搭配做游戏加速。</p></div><div class=\"client\"><h3>iOS / iPadOS</h3><p>常用 Shadowrocket、Quantumult X 或 Stash。商店安装后粘贴订阅，按需开启分流与 MITM（仅在您明确需要时）。</p></div><div class=\"client\"><h3>Android</h3><p>Clash Meta for Android、surfboard 或 sing-box 均可。请关闭过度省电限制，以免后台断开导致会议中断。</p></div><div class=\"client\"><h3>路由器与网关</h3><p>支持订阅的 OpenWrt 或 Clash 内核网关可覆盖全家设备。团队版更适合高并发、定制路由与专属客户经理协同部署。</p></div></div><p><a href=\"#guide\">查看操作说明</a> · <a href=\"#plans\">返回套餐</a> · <a href=\"#home\">回到顶部</a></p></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>熊猫云(bobcloud)是机场还是 VPN？和普通加速器有何不同？</summary><p>熊猫云以机场订阅提供节点与流量，用户在各类 VPN 或代理客户端中使用。相比单一加速器 App，您可以自选 Clash、Shadowrocket 等工具，并按规则分流。品牌侧负责节点与套餐，客户端侧由您按系统选择。</p></details><details><summary>如何完成客户端下载并导入机场订阅？</summary><p>先在客户端专区确认系统对应软件，从该软件官方渠道安装。然后将熊猫云订阅链接粘贴到「订阅 / Profiles」并更新。连接后可按地区或 IPLC 专线切换。完整顺序见操作说明，无需在本站填写表单。</p></details><details><summary>基础流媒体解锁和全节点原生解锁差别在哪？</summary><p>基础版覆盖常见地区与部分平台；旗舰版强调全节点原生解锁，降低因 IP 质量导致的版权库限制。实际可播放内容仍受您的账号地区、设备 DRM 与平台策略影响，本页不作夸大承诺。</p></details><details><summary>玩游戏是否必须上旗舰版？延迟大概怎么选节点？</summary><p>旗舰版含 IPLC 专线游戏加速优化，更适合对延迟敏感的对战。轻度网页游戏可用基础版普通线路。建议在客户端按延迟排序，优先选择标注专线或游戏优化的节点，并避免在高峰期与大流量下载共用同一条链路。</p></details><details><summary>多台设备如何共用？流量用尽后会怎样？</summary><p>同时在线设备按套餐限制为 3、5 或 20 台。流量为账户共享，各设备消耗合计计入当月额度。用尽后高速转发会受限，可升级套餐或等待月度重置；年付只影响结算单价，不改变当月流量上限。</p></details><details><summary>怎样确认访问的是熊猫云(bobcloud)官网而不是仿站？</summary><p>请核对品牌全称「熊猫云(bobcloud)」以及本页套餐价、设备数与客户端说明是否一致。不要轻信来路不明的「破解客户端」或他人转发的订阅。客服走官方工单，旗舰与团队用户可获得优先响应与专属客户经理（团队版）。</p></details></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"footer-block\"><h3>广告合作</h3><p>熊猫云(bobcloud)接受与网络基础设施、跨境协作工具相关的文字展示咨询。合作请通过官方工单说明产品类型与投放周期。此处仅为合作说明，不含第三方媒体或弹窗。</p></div><div class=\"footer-block\"><h3>友情链接</h3><div class=\"links\"><a href=\"#\">网络协议入门</a><a href=\"#\">开源客户端列表</a><a href=\"#\">分流规则说明</a><a href=\"#\">跨境办公安全提示</a><a href=\"#clients\">客户端下载指引</a></div></div><div class=\"footer-block\"><h3>站点信息</h3><p><a href=\"#\">网站地图</a> · <a href=\"#home\">返回顶部</a> · <a href=\"#clients\">官方下载指引</a> · <a href=\"#faq\">常见问题</a></p><p>熊猫云(bobcloud) 官方网站。本页介绍机场订阅、VPN 梯子网络加速、套餐对照与多端客户端选择，请合法合规使用相关服务。</p></div></div></footer>",
+          "hash": "929c21f3911907a633a7df19f6fcee90497dcd9887e6a93497e9d5385b3dfe68",
+          "seo": {
+            "title": "熊猫云(bobcloud)官网 - VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "熊猫云,bobcloud,熊猫云机场,熊猫云VPN,机场订阅,VPN梯子,网络加速器,客户端下载,官方网站,官方下载",
+            "description": "熊猫云(bobcloud)提供高速稳定的机场订阅与VPN网络加速服务，支持多端客户端下载、流媒体解锁与游戏专线，欢迎访问官网了解套餐与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "momvip.cn",
+    "host": "p-cda6ffc23c.momvip.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "momvip.cn",
+      "url": "https://momvip.cn/",
+      "label": "v2SpaceX",
+      "apex": "momvip.cn",
+      "kind": null,
+      "identity": "geubjhv/page-487f1cd7735d5716b9988dc7"
+    },
+    {
+      "host": "tfonwee.cn",
+      "url": "https://tfonwee.cn/",
+      "label": "熊猫云(bobcloud)",
+      "apex": "tfonwee.cn",
+      "kind": null,
+      "identity": "yrpbpx/page-526780f69f4914bece696e09"
+    },
+    {
+      "host": "utyfxtz.cn",
+      "url": "https://utyfxtz.cn/",
+      "label": "熊猫云(bobcloud)",
+      "apex": "utyfxtz.cn",
+      "kind": null,
+      "identity": "yrfcwhsgng/page-d6fc4f1a9d2b21c878c069e8"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f6048b197613a246d299866a904d4c602a652bb959d6ad19e350f85ba1ccfff8",
+    "sitemap.xml": "db4e536f3ed51d628750958edf736e605ede0309d17c13abb9d4398eec4604c9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d8c96eab69516583189c1049eace24069c39354e28f0268be60840381b466289",
+    "robots.txt": "aba8e7d2b6824f473aad0566eebf92db102a66b88171179bb4feadffd9e3b0df",
+    "409632d6f01702d56de1706f4333471e.txt": "58631b884b52cc35baef9a9e83d84c7dc77bf7601cf97a61e34dcdb72f14f409"
+  },
+  "revision": "c8b4cb854b669d15c03d09e562a004d4e7485eeb449214283192ef7fe4078671"
+}
